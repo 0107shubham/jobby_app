@@ -58,6 +58,8 @@ class LoginForm extends Component {
               alt="website logo"
             />
           </div>
+          <p className="color">username:rahul</p>
+          <p className="color">password:rahul@2021</p>
           <label className="form-label" htmlFor="username">
             USERNAME
           </label>

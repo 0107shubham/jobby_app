@@ -83,7 +83,7 @@ class AllJobs extends Component {
     if (response.ok === true) {
       const profile = data.profile_details
       const updatedProfileData = {
-        name: profile.name,
+        name: 'Shubham Tyagi',
         profileImageUrl: profile.profile_image_url,
         shortBio: profile.short_bio,
       }

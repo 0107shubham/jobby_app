@@ -7,6 +7,9 @@
   justify-content: center;
   align-items: center;
 }
+.color {
+  color: white;
+}
 
 .login-form-container {
   background-color: #272727;
